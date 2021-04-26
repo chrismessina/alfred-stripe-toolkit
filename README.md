@@ -25,6 +25,15 @@ _You will need to purchase the [Alfred Powerpack](https://www.alfredapp.com/powe
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.2.0] - 2021-04-25
+
+### Added
+- Added Workflow description.
+- Added secondary menu navigation to List Filter, identified by new `var:secondaryActionPrefix`
+
+### Changed
+- Removed default content for `var:actionPrefix`
+
 ## [v0.1.0] - 2021-04-05
 - Initial Release
 
