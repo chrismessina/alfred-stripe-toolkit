@@ -25,6 +25,11 @@ _You will need to purchase the [Alfred Powerpack](https://www.alfredapp.com/powe
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.2.1] - 2021-04-29
+### Changed
+- Fixed typo in OneUpdater repo
+- Added note to Search object
+
 ## [v0.2.0] - 2021-04-25
 
 ### Added
